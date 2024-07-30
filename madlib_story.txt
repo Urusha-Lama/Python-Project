@@ -1,0 +1,5 @@
+Today, I went to the zoo with my <adjective> friend <name>. We saw a(n) <adjective> <animal> that <verb_past> near the <place>. The zookeeper gave it some <plural_noun>.
+
+We also saw <adjective> pandas eating <food> and <adjective> giraffes with long <body_part_plural>. One giraffe tried to lick my <body_part>.
+
+It was a <adjective> day at the zoo!
